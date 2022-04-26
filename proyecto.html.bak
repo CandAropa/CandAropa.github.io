@@ -1,0 +1,48 @@
+<html>
+    <head>
+	    <title>
+		   C&A-Productos
+		</title>
+		<link rel="shortcut icon" href="logo.png">
+	</head>
+	<body background="azul.jpg">
+	
+	       <hr>
+		   <table align="center" border="2" width="90%" border color="#610B0B">
+		      <tr align="center" text="black">
+			    <th  width="25%" bgcolor="#F7BE81"> Productos </th> 
+			    <th  width="40%" bgcolor="#F7BE81"> Imagen </th> 
+	            <th  width="25%" bgcolor="#F7BE81"> Precio </th>
+			</tr>
+			<tr>
+			     <td bgcolor="#AEB404" align="center"> Ropa de Invierno</td>
+				 <td bgcolor="#AEB404" align="center"><img src=invierno.png width="300" height="250"> </td>
+				 <td bgcolor="#AEB404" align="center">877.45</td>
+            </tr>
+			<tr>
+			     <td bgcolor="#AEB404" align="center">Conjunto </td>
+				 <td bgcolor="#AEB404" align="center"><img src=rosa.jpg width="300" height="250"> </td>
+				 <td bgcolor="#AEB404" align="center">450.30</td>
+            </tr>
+			<tr>
+			     <td bgcolor="#AEB404" align="center"> Bolsos </td>
+				 <td bgcolor="#AEB404" align="center"><img src=bolsos.jpg width="300" height="250"> </td>
+				 <td bgcolor="#AEB404" align="center">389.99</td>
+            </tr>
+			<tr>
+			     <td bgcolor="#AEB404" align="center">Zapatos </td>
+				 <td bgcolor="#AEB404" align="center"><img src=tenis.jpg width="300" height="250"> </td>
+				 <td bgcolor="#AEB404" align="center">250.00 </td>
+            </tr>
+	 </table>				
+	<table align="center" border="0" width="90%">
+		      <tr align="center" text="black">
+			    <td align="center"><A href=principal.html><img src="principal.png"> </A></td>
+				 <td align="center"><A href=historia.html><img src="Historia.png"> </A></td>
+				 <td align="center"><A href=producutos.html><img src="Productos.png"> </A></td>
+				 <td align="center"><A href=contacto.html><img src="contacto.png"> </A></td>
+	</table> 
+	</body>
+	
+	
+</html>

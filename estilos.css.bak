@@ -1,0 +1,176 @@
+body{
+   background:#FFFEF0;
+}
+
+ /*codigo para imagen de productos*/
+.img{
+  width: 250px;
+  height: 150px;
+  }
+
+  
+h1{
+  font-size: 25px;
+  font-style: tahoma;
+  text-align: center;
+  color: #61380B;
+}
+p{
+  font-size: 15px;
+  font-style: tahoma;
+  text-align: center;
+  color: #61380B;
+  
+}
+
+table{
+   border-style: solid;
+   border-color: #DECCAD;
+   border: 1;
+   width: 70%;
+   height: 50%;
+    
+ }
+ 
+ td{
+  background-color: #E0E5D9;
+  text-align: center;
+  
+  }
+  
+ th{
+   background-color: #CCC79F;
+   
+   }
+ /*codigo para la tabla transparente*/
+.sin{
+    border-style: transparent;
+	border:0;
+    background-color: transparent;
+	height: 20%;
+	}
+	
+	/*codigo de la tabla de contactos*/
+.font{
+  border-style: dotted;
+  border-color: #DECCAD;
+  border: 1;
+  width:30%;
+  height: 40%;
+  
+  }
+  
+  /*codigo para imagenes principal*/
+.cook{
+    width: 300px;
+	height:200px;
+	
+	}
+	
+ /*codigo para logo*/
+.logo{
+  width: 250px;
+  height: 150px;
+  
+  }
+  
+  /*texto de historia*/
+.pi{
+   font-size: 30px;
+   font-style: tahoma;
+   text-align: center;
+   color:#000000;
+   
+   }
+   
+ .po{
+   font-size: 25px;
+   font-style: tahoma;
+   text-align: center;
+   color: #000000;
+   
+   }
+   
+ .div1{
+	border: 3px solid #C2AC94;
+	background: url("beige.jpg");
+	margin: auto;
+
+	}
+	
+.div2{
+   border: 3px solid #C4DEAD;
+	background: url("verde.jpg");
+	margin: auto;
+
+   }
+   
+.div3{
+border: 3px solid #FCF19F;
+	background: url("amarillo.jpeg");
+	margin: auto;
+
+}
+
+.div4{
+	border: 3px solid #C2AC94;
+	background: url("beige.jpg");
+	margin: auto;
+	font-style: Tahoma;
+	
+ }
+ 
+ .caja{
+    height: 300px;
+	width:250px;
+	border: 1px solid #eee;
+	background: #E0E5D9;
+	margin:5px;
+	color:black;
+	text-align: center;
+	font-family:"Lato", sans-serif;
+	display: inline-block;
+}
+.caja:hover{
+            /*Colocar sombra al dvi*/
+		    /* x y Radio color*/
+   box-shadow: 0 0 10px brown;
+     /*Cambia el tama{o de escala del div*/
+	transform: scale(1.3);
+}
+.caja-texto{
+    padding-bottom: 5px;
+	padding-top: 2px;
+	font-size: 30px;
+	color: blue;
+	font-weight: bold;
+}
+.texto-adicional{
+     padding-top: 5px;
+	 font-size: 25px;
+}
+ 
+@font-face{
+     font-family:"mifuente";
+	 src: url(CafeMatcha.tff)
+}
+
+#fuente-Paper{
+    font-family:"mifuente";
+    src: url(Paper Banner-Regular.ttf)
+
+}
+
+#fuente-google{
+  font-family: 'Passions Conflict', cursive; 
+ } 
+   
+   
+   
+   
+   
+ 
+ 
+  
+   
+

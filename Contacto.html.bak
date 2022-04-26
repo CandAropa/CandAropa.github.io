@@ -1,0 +1,90 @@
+<html>
+    <head>
+	    <title>
+		   C&A- Contacto
+		</title>
+	    <link rel="stylesheet" href="estilos.css">
+	    <link rel="shortcut icon" href="canda.png">
+
+	</head>	
+	       <hr>
+		<p>  
+		<div class="div1">
+		<center>
+		<img class="logo" src=CA-Logo.png >
+		   <h1>
+		   Contacto 
+		   </h1>
+		   </center>
+		   	</div>
+		  <hr>
+		  <br>
+		  <center>
+		   <form>
+		   		 <div class="div2">
+		      <table class="font">
+			      <tr class="font">
+				    <td>  
+					 <label>Nombre:</label>
+					 <input type="text" size="50"
+					 name="nombre" id="nombre">
+					 </input>
+				   </td>
+				 </tr> 
+				   <tr>
+				    <td>  
+					 <label>Correo:</label>
+					 <input type="text" size="50"
+					 name="correo"  id="correo">
+					 </input>
+				   </td>
+				 </tr>
+				  <tr>
+				    <td>  
+					 <label>Asunto:</label>
+					 <input type="text" size="50"
+					 name="correo"  id="correo">
+					 </input>
+				   </td>
+				 </tr>
+				  <tr>
+				    <td>  
+					 <label>Mensaje:</label>
+					 <textarea rows="10" cols="30"
+					 name="mensaje" id="mensaje">
+					 </textarea>
+				   </td>
+				 </tr>
+				 <td>
+				 <input type="submit"
+				 value="Enviar">
+				 <input type="reset">
+				 </td>
+			 </table>
+			 </div>
+			 
+			<div class="div3">
+			 <table class="sin">
+		      <tr class="sin">
+			    <td class="sin"><A href=canda.html><img src="principal.png"> </A></td>
+				 <td class="sin"><A href=historia.html><img src="Historia.png"> </A></td>
+				 <td class="sin"><A href=Producto.html><img src="Productos.png"> </A></td>
+				 <td class="sin"><A href=contacto.html><img src="contacto.png"> </A></td>
+				 </div>
+				 </center>
+			</table>
+		<div class="div4">
+		<center>
+				<p id="fuente-google">
+		 &copy; 2022. Derechos reservados. <br>
+		   Desarrollado por: Camposeco Delgado Miriam Alondra 
+		   Matricula: 01906421
+		   Grupo: 604 <br>
+		   Plantel Nueva Tijuana
+		      </div>
+			  </center>
+		    </p>
+	</body>
+	
+	
+</html>

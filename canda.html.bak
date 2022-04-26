@@ -1,0 +1,54 @@
+ <html>
+ <head>
+       <title>
+	       C&A
+	   </title>
+	    <link rel="stylesheet" href="estilos.css">
+		<link rel="shortcut icon" href="canda.png">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap" rel="stylesheet">
+    </head>
+     <body>
+	 <div class="div1">
+	   <center>
+	       <img class="logo" src=CA-Logo.png >
+	   </center>
+	   <h1 id="CafeMatcha">
+	        En C&A creemos que todas las personas deberían poder verse y sentirse bien a diario.
+	   </h1>
+	   <br>
+	   <hr>
+	   </div>
+		<div class="div2">
+		<marquee behavior="alternate">
+		    <img class="cook" src=rebajas.jpg>
+		    <img class="cook" src=playeras.jpg>
+			<img class="cook" src=pantuflas.jpg>
+		</marquee>	
+		</div>
+        <center>
+		<div class="div3">
+			  <table class="sin">
+		      <tr align="center" text="black">
+			    <td class="sin"><A href=canda.html><img src="principal.png"> </A></td>
+				 <td class="sin"><A href=historia.html><img src="Historia.png"> </A></td>
+				 <td class="sin"><A href=Producto.html><img src="Productos.png"> </A></td>
+				 <td class="sin"><A href=contacto.html><img src="contacto.png"> </A></td>
+			</table> 
+			</center>
+		</div>
+		<div class="div4">
+		<center>
+		<p id="fuente-google">
+		   &copy; 2022. Derechos reservados. <br>
+		   Desarrollado por: Camposeco Delgado Miriam Alondra 
+		   Matricula: 01906421
+		   Grupo: 604 <br>
+		   Plantel Nueva Tijuana
+		 </div>
+		 </center>
+	     </p>
+	</body>
+		   
+</html>
